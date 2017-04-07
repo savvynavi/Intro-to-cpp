@@ -9,7 +9,6 @@ int main() {
 	cin >> firstLetter >> secondLetter;
 	cout << "first letter: " << firstLetter << ", second letter: " << secondLetter << endl;
 
-
 	if (firstLetter >= 97) {
 		firstLetter = firstLetter - 32;
 	}
